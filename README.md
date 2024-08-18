@@ -54,6 +54,8 @@ These models are used sequentially in the inference process.
 
 ## Project Approach
 
-[Approach.pdf](https://github.com/user-attachments/files/16646557/Zyook.1.pdf)
+[Approach.pdf](https://github.com/user-attachments/files/16646557/Zyook.1.pdf)  
+
+[Project Explanation Video](https://www.loom.com/share/104b6dec71174eba807c1ed7d1eeaef7?sid=fda79776-f4c9-4666-a265-76d99772bdfc)
 
 
