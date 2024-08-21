@@ -1,4 +1,4 @@
-# SYOOK PPE Detection Project
+# PPE Detection Project
 
 This project implements a two-stage detection system for Personal Protective Equipment (PPE) in workplace environments. It first detects persons in an image, then identifies PPE items worn by each person.
 
