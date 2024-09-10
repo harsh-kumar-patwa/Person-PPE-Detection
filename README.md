@@ -14,8 +14,8 @@ This project implements a two-stage detection system for Personal Protective Equ
 
 1. Clone this repository or directly download the zip file. :
    ```
-   git clone https://github.com/harsh-kumar-patwa/Syook-assignment
-   cd Syook-assignment
+   git clone https://github.com/harsh-kumar-patwa/Person-PPE-Detection
+   cd Person-PPE-Detection
    ```
 
 2. Install required packages:
